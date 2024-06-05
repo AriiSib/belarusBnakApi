@@ -12,6 +12,9 @@ This project is designed to retrieve and parse currency exchange rates from Bela
 - `Filial`: A class for storing information about the bank's branch and its currency rates.
 - `FilialInfo`: A class for parsing the JSON response and storing information about the branches.
 
+## API Used
+This project uses the public API provided by Belarusbank to fetch exchange rates. You can find more information about the API [here](https://belarusbank.by/be/33139/forDevelopers/api/kursinfo).
+
 ## Dependencies
 
 The project uses the following dependencies:
